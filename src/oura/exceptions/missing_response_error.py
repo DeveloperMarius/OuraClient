@@ -1,0 +1,2 @@
+class MissingResponseError(Exception):
+    pass

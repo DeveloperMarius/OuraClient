@@ -1,0 +1,7 @@
+/.idea
+__pycache__
+/.git
+# Ignore APK and extracted APK files
+/com.ouraring.oura_*
+/repackaged*
+/__handlers__
