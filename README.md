@@ -1,6 +1,6 @@
 # Oura Client
 
-docs comming soon
+docs coming soon
 
 ## Credits
 
